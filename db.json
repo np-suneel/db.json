@@ -1,0 +1,23 @@
+{
+    "employees": [
+        {
+            "id": "01125",
+            "name": "Hagrid"
+        },
+        {
+            "id": "01127",
+            "name": "Jotur"
+        },
+        {
+            "id": "01129",
+            "name": "Armagd"
+        },
+        {
+            "id": "01131",
+            "name": "Lyfjaber"
+        }
+    ],
+    "ideas": [
+
+    ]
+}
